@@ -1,0 +1,84 @@
+{
+	"serial_killers": [
+		{
+			"index": 1,
+			"name": "Ted Bundy",
+			"weapon": "Blunt force trauma",
+			"gender": "Male",
+			"age": 42,
+			"picture": "https://i.pinimg.com/736x/34/6f/3b/346f3bbb6afc6e5f676803fcff917ad9.jpg",
+			"location": "Various locations in the US",
+			"description": "Ted Bundy was a notorious American serial killer who kidnapped, raped, and murdered more than 30 young women in the 1970s."
+		},
+		{
+			"index": 2,
+			"name": "Aileen Wuornos",
+			"weapon": "Firearm",
+			"gender": "Female",
+			"age": 46,
+			"picture": "https://res.cloudinary.com/jerrick/image/upload/d_642250b563292b35f27461a7.png,f_jpg,fl_progressive,q_auto,w_1024/6181b969b1e504001e7cfea3.jpg",
+			"location": "Florida, USA",
+			"description": "Aileen Wuornos was a female serial killer who murdered seven men in Florida in 1989 and 1990, claiming they had tried to assault her."
+		},
+		{
+			"index": 3,
+			"name": "John Wayne Gacy",
+			"weapon": "Strangulation",
+			"gender": "Male",
+			"age": 52,
+			"picture": "https://image.geo.de/30117464/t/ek/v4/w1440/r0/-/john-wayne-gacy-d-2491585-jpg--65813-.jpg",
+			"location": "Illinois, USA",
+			"description": "John Wayne Gacy was an American serial killer known for murdering at least 33 teenage boys and young men in the 1970s."
+		},
+		{
+			"index": 4,
+			"name": "Jeffrey Dahmer",
+			"weapon": "Dismemberment",
+			"gender": "Male",
+			"age": 34,
+			"picture": "https://nypost.com/wp-content/uploads/sites/2/2022/09/jeffrey-dahmer-1.jpg?quality=75&strip=all",
+			"location": "Wisconsin, USA",
+			"description": "Jeffrey Dahmer, also known as the Milwaukee Cannibal, committed the murder and dismemberment of 17 men and boys between 1978 and 1991."
+		},
+		{
+			"index": 5,
+			"name": "Harold Shipman",
+			"weapon": "Lethal injection",
+			"gender": "Male",
+			"age": 57,
+			"picture": "https://evidenciacriminal.com/wp-content/uploads/2021/05/Harold-Shipman.jpg",
+			"location": "England",
+			"description": "Dr. Harold Shipman was a British doctor who is believed to have killed over 200 of his patients by administering lethal doses of painkillers."
+		},
+		{
+			"index": 6,
+			"name": "Ed Gein",
+			"weapon": "Dismemberment",
+			"gender": "Male",
+			"age": 77,
+			"picture": "https://www.alittlebithuman.com/wp-content/uploads/2022/02/ed-gein-serial-killer-scaled.jpg",
+			"location": "Wisconsin, USA",
+			"description": "Ed Gein was an American murderer and body snatcher whose crimes inspired numerous horror films, including 'Psycho' and 'The Texas Chainsaw Massacre.'"
+		},
+		{
+			"index": 7,
+			"name": "Gary Ridgway",
+			"weapon": "Strangulation",
+			"gender": "Male",
+			"age": 73,
+			"picture": "https://www.grunge.com/img/gallery/the-green-river-killer-what-gary-ridgways-childhood-was-really-like/l-intro-1620763748.jpg",
+			"location": "Washington, USA",
+			"description": "Known as the Green River Killer, Gary Ridgway confessed to murdering 71 women in Washington State during the 1980s and 1990s."
+		},
+		{
+			"index": 8,
+			"name": "Lizzie Borden",
+			"weapon": "Axe",
+			"gender": "Female",
+			"age": 67,
+			"picture": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/03/25/7b35e33f-b413-49c5-a373-5873a585442c/resize/1240x930/3bcc6968622c931c38cd65e46e0a13a2/borden7-lizzie.jpg",
+			"location": "Massachusetts, USA",
+			"description": "Lizzie Borden was famously tried and acquitted for the axe murders of her father and stepmother in 1892, becoming a figure of American folklore."
+		}
+	]
+}
